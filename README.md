@@ -1,8 +1,11 @@
+Otwórz windows command line i utwórz na pulpicie katalog kalkulator-testy
+następnie wpisz:
 - cd kalkulator-testy
 - npm init –y
 - npm install --save-dev jest
 
 Struktura projektu:
+
 kalkulator-testy/
 ── calculator.js
 ── calculator.test.js
