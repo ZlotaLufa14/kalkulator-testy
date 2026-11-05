@@ -4,6 +4,14 @@ następnie wpisz:
 - npm init –y
 - npm install --save-dev jest
 
+W pliku package.json zmień sekcję scripts na:
+
+json
+"scripts": {
+ "test": "jest"
+}
+
+
 Struktura projektu:
 
 kalkulator-testy/
