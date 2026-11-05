@@ -6,7 +6,6 @@ następnie wpisz:
 
 W pliku package.json zmień sekcję scripts na:
 
-json
 "scripts": {
  "test": "jest"
 }
