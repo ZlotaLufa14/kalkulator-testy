@@ -15,10 +15,10 @@ W terminalu wykonaj:
 - npm test
 
 Słownik pojęć:
- describe() - grupuje testy dotyczące jednej funkcji
- test() - definiuje pojedynczy test
- expect() - określa oczekiwany rezultat
- toBe() - sprawdza zgodność wartości
- toThrow() - sprawdza, czy funkcja zgłasza wyjątek
- module.exports - udostępnia funkcję innym plikom
- require() - importuje funkcję do testów
+- describe() - grupuje testy dotyczące jednej funkcji
+- test() - definiuje pojedynczy test
+- expect() - określa oczekiwany rezultat
+- toBe() - sprawdza zgodność wartości
+- toThrow() - sprawdza, czy funkcja zgłasza wyjątek
+- module.exports - udostępnia funkcję innym plikom
+- require() - importuje funkcję do testów
